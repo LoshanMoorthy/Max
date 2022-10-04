@@ -1,13 +1,4 @@
 // Version: 20200917
-// Handin done by:
-//   <id 1> <Loshan Sundaramoorthy>
-//   <id 2> <Aya Hasan>
-//   <id 3> <Søren Fals Vind>
-// Contributions:
-//   <Loshan Sundaramoorthy> <contribution>
-//   <Aya Hasan> <contribution>
-//   <Søren Fals Vind> <contribution>
-
 import java.io.*;
 import java.util.*;
 public class Maximum {
